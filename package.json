@@ -1,0 +1,14 @@
+{
+  "name": "ruggerotictactoe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "migrate": "truffle migrate --reset",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^3.0.22",
+    "truffle": "^4.1.14"
+  }
+}
